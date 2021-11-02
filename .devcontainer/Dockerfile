@@ -1,4 +1,4 @@
-FROM althack/ros2:foxy-dev 
+FROM uobflightlabstarling/starling-controller-base:latest
 
 # ** [Optional] Uncomment this section to install additional packages. **
 #
